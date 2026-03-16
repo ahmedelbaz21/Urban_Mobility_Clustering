@@ -1,0 +1,4 @@
+Model,Silhouette Score,Clusters Found
+K-Means,0.37178808728555857,5
+DBSCAN,-0.36568601355963926,476
+Agglomerative Clustering,0.4469068907243926,5
